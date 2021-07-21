@@ -1,5 +1,5 @@
 # Full Stack open 2020
-  This repository contains part0-3 of submitted exercises for the Full Stack open 2020 MOOC offered by University of Helsinki.
+  This repository contains part(0-2) of submitted exercises for the Full Stack open 2020 MOOC offered by University of Helsinki.
 
 ## Learning Outcomes
   Gain proficiency in React, Redux, Node.js, MongoDB, GraphQL
