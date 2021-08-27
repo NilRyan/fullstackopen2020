@@ -4,5 +4,5 @@
 ## Learning Outcomes
   Gain proficiency in React, Redux, Node.js, MongoDB, GraphQL
 
-### Start Date - February 18, 2020
-### Target End - April 2020
+### Start Date - February 18, 2021
+### Target End - April 2021
